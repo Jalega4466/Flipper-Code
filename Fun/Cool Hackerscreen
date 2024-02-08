@@ -1,0 +1,15 @@
+GUI r 
+DELAY 500
+STRING CMD
+ENTER
+DELAY 1500 
+STRING color a @echo off
+:loop
+title Hack it BOYYYYY
+tree
+ping www.google.com -t
+timeout /t 10 >nul 2>&1
+goto :loop
+ENTER
+
+REM This is a funny Hackerscreen that just executes the commant tree and than Pings google. 
