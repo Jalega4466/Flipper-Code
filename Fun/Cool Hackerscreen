@@ -1,6 +1,6 @@
 GUI r 
 DELAY 500
-STRING CMD
+STRING Powershell
 ENTER
 DELAY 1500 
 STRING color a 
