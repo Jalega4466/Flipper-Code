@@ -1,6 +1,6 @@
 GUI r 
 DELAY 500
-STRING Powershell
+STRING cmd
 ENTER
 DELAY 1500 
 STRING color a @echo off :loop title Hack it BOYYYYY tree ping www.google.com -t timeout /t 10 >nul 2>&1 goto :loop
