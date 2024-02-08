@@ -6,7 +6,5 @@ SHIFT TAB
 DELAY 500
 ENTER
 DELAY 500 
-STRING Invoke-WUJob -Script {
-Get-WindowsUpdate -Install -AcceptAll -AutoReboot
-}
+STRING Invoke-WUJob -Script {Get-WindowsUpdate -Install -AcceptAll -AutoReboot}
 ENTER
